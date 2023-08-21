@@ -20,6 +20,9 @@ allLinks.forEach(function (link) {
 
     const href = link.getAttribute("href");
 
+    // Sample Links (for illustrative purposes only, not functional within this application)
+    if (href === "sample") return;
+
     // Scroll back to top
     if (href === "#")
       window.scrollTo({
@@ -40,6 +43,11 @@ allLinks.forEach(function (link) {
       link.classList.contains("nav-cta")
     )
       header.classList.toggle("nav-open");
+
+    // External links
+    if (!href.startsWith("#")) {
+      window.open(href, "_blank");
+    }
   });
 });
 
