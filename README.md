@@ -1,6 +1,12 @@
 # Adventure JP
 
-## Web App Description:
+## Technology Stack
+
+- JS (Vanilla)
+- HTML
+- CSS
+
+## Web App Description
 
 - Welcome to the AdventureJP Web App! Embark on a virtual journey to João Pessoa, a sun-soaked haven where the thrill of adventure meets the tranquility of paradise. This dynamic web app serves as a digital gateway to the sights, sounds, and experiences of this Brazilian gem.
 
@@ -18,7 +24,7 @@
 
 - Lastly, step forward with the 'CTA' section. Connect with AdventureJP's agents to craft a tailored journey. The intuitive form and direct contact information make the process seamless and inviting.
 
-## Disclaimer:
+## Disclaimer
 
 The information provided on this website is for general informational purposes only. This website is exclusively intended for portfolio purposes to showcase and demonstrate various skills and projects. While we strive to keep the information up to date and accurate, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
 
