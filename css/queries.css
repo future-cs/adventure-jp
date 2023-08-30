@@ -149,7 +149,7 @@
     /* display: none;  BECAUSE IT DON'T ALLOW ANY ANIMATIONS - AVOID USE*/
     /*  1 - Hide visually */
     opacity: 0;
-    /*  2 - Make it ulaccessible to mouse and keyboard */
+    /*  2 - Make it unaccessible to mouse and keyboard */
     pointer-events: none;
     /*  3 - Hide from screen readers */
     visibility: hidden;
